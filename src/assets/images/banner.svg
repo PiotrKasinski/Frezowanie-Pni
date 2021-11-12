@@ -1,15 +1,15 @@
-<!-- <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1800px" height="900px" viewBox="0 0 1800 900" zoomAndPan="disable">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1800px" height="900px" viewBox="0 0 1800 900" zoomAndPan="disable">
 
     <style type="text/css"><![CDATA[
 		line
 		{
-			stroke: rgba(0,255,255,0.125);
-			stroke-width: 0.85px;
+			stroke: rgba(0,72,49,0.25);
+			stroke-width: 1.85px;
 		}
 		
 		polygon
 		{
-			fill: rgba(20,150,150,0.075);
+			fill: rgba(112,82,62,0.075);
 		}
     ]]></style>
     
@@ -51,4 +51,4 @@
 		<polygon points="500,1100 800,800 850,850 900,800 900,900 900,800 950,850 1000,800 1300,1100" />
 		<polygon points="550,1150 850,850 900,900 950,850 1250,1150" />
 
-</svg> -->
+</svg>

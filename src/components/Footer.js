@@ -48,7 +48,7 @@ export default function Footer() {
         <ul className="menu">
           <li>&copy; Profesjonalne Frezowanie Pni. All rights reserved.</li>
           <li>
-            Design: <a href="https://html5up.net">HTML5 UP</a>
+            Design: <a href="mailto:qL.b@outlook.com">qL.b</a>
           </li>
         </ul>
       </div>

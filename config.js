@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Profesjonalne Frezowanie Pni', // <title>
+  siteTitle: 'Frezowanie Pni', // <title>
   siteDescription: 'Profesjonalne Frezowanie Pni', // <title>
   manifestName: 'Profesjonalne Frezowanie Pni',
   manifestShortName: 'Profesjonalne Frezowanie Pni', // max 12 characters
@@ -7,11 +7,11 @@ module.exports = {
   manifestBackgroundColor: '#000000',
   manifestThemeColor: '#ffffff',
   manifestDisplay: 'standalone',
-  manifestIcon: 'src/assets/imagages/poptrox-closer.svg',
+  manifestIcon: 'src/assets/images/poptrox-closer.svg',
   pathPrefix: `/`, // This path is subpath of your hosting https://domain/portfolio
-  authorName: 'Profesjonalne Frezowanie Pni',
+  authorName: 'Frezowanie Pni',
   siteLogo: 'src/assets/images/logo.png',
-  heading: 'Profesjonalne Frezowanie Pni',
+  heading: 'Kompleksowa usługa na Twoich warunkach',
   // social
   socialLinks: [
     {
