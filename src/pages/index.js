@@ -18,8 +18,8 @@ const IndexPage = () => (
         <h3>
           W naszej ofercie znajdziesz
           <br />
-          kompleksową usługę frezowania pni i korzeni <br />
-          po usunięciu drzew i krzewów.
+          kompleksową usługę frezowania pni i&nbsp;korzeni <br />
+          po usunięciu drzew i&nbsp;krzewów.
         </h3>
       </header>
       <h4>
@@ -29,18 +29,18 @@ const IndexPage = () => (
       </h4>
       <br />
       <p>
-        Obróbka poprzez skrawanie jest procesem tańszym, prostszym i wymaga
-        mniejszej ilości pracy niż karczowanie karpiny. Frezowanie pni jest
-        również doskonałą alternatywną opcją do wykopywania pniaka. Przy
+        Obróbka poprzez skrawanie jest procesem tańszym, prostszym i&nbsp;wymaga
+        mniejszej ilości pracy niż&nbsp;karczowanie karpiny. Frezowanie pni jest
+        również doskonałą alternatywną opcją do&nbsp;wykopywania pniaka. Przy
         wyrywaniu potrzebny jest ciężki sprzęt, wywiezienie karpy oraz
         uzupełnienie ziemią ubytku po wykopalisku. Skrawanie pnia jest mało
-        inwazyjne, wykonywane wtedy ,kiedy nie chcemy niszczyć pobliskiego
-        otoczenia i zagospodarować teren pod wysianie trawnika, ułożenie kostki
-        brukowej lub wykonanie nasadzeń.
+        inwazyjne, wykonywane wtedy ,kiedy nie&nbsp;chcemy niszczyć pobliskiego
+        otoczenia i&nbsp;zagospodarować teren pod&nbsp;wysianie trawnika,
+        ułożenie kostki brukowej lub&nbsp;wykonanie nasadzeń.
       </p>
       <p>
-        Wykonujemy frezowanie o głębokości nawet do 35 cm poniżej poziomu
-        podłoża.
+        Wykonujemy frezowanie o&nbsp;głębokości nawet do 35&nbsp;cm poniżej
+        poziomu podłoża.
       </p>
       <footer>
         <Scroll type="id" element="first">
@@ -60,7 +60,7 @@ const IndexPage = () => (
           <h2>Kontakt</h2>
         </header>
         <p>
-          Masz pytania, uwagi, sugestie? Koniecznie skontaktuj
+          Masz pytania, uwagi, sugestie&nbsp;? Koniecznie skontaktuj
           się&nbsp;z&nbsp;nami! Przygotujemy ofertę dopasowaną specjalnie
           dla&nbsp;Ciebie.
         </p>
@@ -85,13 +85,13 @@ const IndexPage = () => (
       <div className="inner">
         <header>
           <h2>
-            Dojazd na wycenę i zlecenie otrzymujesz <b>GRATIS</b>
+            Dojazd na wycenę i&nbsp;zlecenie otrzymujesz <b>GRATIS</b>
           </h2>
         </header>
-        <p>Cena uzależniona od :</p>
+        <p>Cena uzależniona od&nbsp;:</p>
         <p>
           - gatunku drzewa <br />
-          - obwodu lub średnicy pnia u nasady <br />
+          - obwodu lub&nbsp;średnicy pnia u&nbsp;nasady <br />
           (5 cm od ziemi)
           <br />
           - ilości pni do wyfrezowania <br />- dostępności do pnia
@@ -126,7 +126,7 @@ const IndexPage = () => (
       <header>
         <h2>Realizcja Zamówienia</h2>
         <p>
-          Twoje zamówienie jest realizowane indywidualnie, co&nbsp;oznacza,
+          Twoje zamówienie jest&nbsp;realizowane indywidualnie, co&nbsp;oznacza,
           że&nbsp;jest wyjątkowe.
           <br />
         </p>
