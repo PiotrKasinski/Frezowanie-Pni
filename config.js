@@ -8,7 +8,7 @@ module.exports = {
   manifestThemeColor: '#ffffff',
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/images/poptrox-closer.svg',
-  pathPrefix: `/`, // This path is subpath of your hosting https://domain/portfolio
+  pathPrefix: `/fp/`, // This path is subpath of your hosting https://domain/portfolio
   authorName: 'Frezowanie Pni',
   siteLogo: 'src/assets/images/logo.png',
   heading: 'Kompleksowa usługa na Twoich warunkach',
