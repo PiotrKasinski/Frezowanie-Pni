@@ -46,11 +46,10 @@ export default function Footer() {
       </ul>
       <div className="copyright">
         <ul className="menu">
-          <li>&copy; Profesjonalne Frezowanie Pni. All rights reserved.</li>
-          <li>
-            Design: <a href="mailto:qL.b@outlook.com">qL.b</a>
-          </li>
+          <li>Profesjonalne Frezowanie Pni &copy; All&nbsp;rights&nbsp;reserved</li>
+          <li><a href="/privacy">Polityka Prywatności</a></li>
         </ul>
+        <p>by <a href="https://github.com/qLb" target="_blank">qL.b</a> with <a href="https://github.com/" target="_blank">gh</a> + <a href="https://cloudflare.com/" target="_blank">cf</a> and <a href="https://gatsbyjs.com" target="_blank">gatsbyjs</a> + <a href="https://html5up.net/" target="_blank">html5</a></p>
       </div>
     </section>
   );
